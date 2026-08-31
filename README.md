@@ -65,18 +65,6 @@ Final-year BS Computer Science (Software Systems) student, working on Retrieval-
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasan-Ahmad-code&show_icons=true&theme=dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Ahmad-code&layout=compact&theme=dark&hide_border=true" height="165"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasan-Ahmad-code&theme=dark&hide_border=true" />
-</p>
-
-<br>
 
 ## 🐍 Contribution Snake
 
